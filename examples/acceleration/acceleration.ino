@@ -67,7 +67,7 @@ void loop() {
     delay(100);
   }
   // Controlls speed changing.
-  if(counter < 10)
+  if(counter < 7)
     counter++;
   else
     counter = 0;
