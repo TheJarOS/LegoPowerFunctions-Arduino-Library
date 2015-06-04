@@ -1,8 +1,5 @@
-# LegoPowerFunctions-Arduino-Library
+# LegoPowerFunctions Arduino Library
 This is an Arduino library to controll Lego PF via IR.
-
-LEGO Power Functions IR Library
-===============================
 
 
 History
