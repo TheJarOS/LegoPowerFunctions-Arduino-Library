@@ -1,7 +1,7 @@
 /*
   twirl.ino
-  Example of LEGOPowerFunctions library
-    modified by Mateusz Jaros / The JarOS.
+  Example of LEGOPowerFunctions library,
+    created by Mateusz Jaros / The JarOS.
     
   CONNECTIONS:
     *Arduino 
