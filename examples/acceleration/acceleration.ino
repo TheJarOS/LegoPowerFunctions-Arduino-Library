@@ -1,7 +1,7 @@
 /*
   acceleration.ino
-  Example of LEGOPowerFunctions library
-    modified by Mateusz Jaros / The JarOS
+  Example of LEGOPowerFunctions library,
+    created by Mateusz Jaros / The JarOS
     
     04.05.2015 
     
