@@ -5,7 +5,7 @@ This is an Arduino library to controll Lego PF via IR.
 History
 -------
 
-Based on code of Bob Kojima 01-19-2008 further modified by Roland Wiersma and examples writtean by Mateusz Jaros / The JarOS 
+Based on code of Bob Kojima 01-19-2008 further had modified by Roland Wiersma and examples wrote Mateusz Jaros / The JarOS 
 
 Original link is dead: http://www.rjw.speedxs.nl/arduino/LEGOPowerFunctions.rar
 Mirror: http://basbase.com/robocam/LEGOPowerFunctions.zip
